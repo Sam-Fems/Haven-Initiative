@@ -54,8 +54,8 @@ const Services = () => {
             className="flex flex-col items-center p-6 bg-gray-800 shadow-md rounded-2xl transition duration-200 hover:shadow-xl"
           >
             <div className="mb-2 text-blue-500 text-5xl">{service.icon}</div>
-            <h3 className="font-semibold text-lg mb-2 text-center text-blue-400 uppercase">{service.name}</h3>
-            <p className="text-sm text-center text-gray-600 dark:text-gray-300">{service.desc}</p>
+            <h3 className="font-semibold text-lg mb-2 text-center text-blue-500 uppercase">{service.name}</h3>
+            <p className="text-sm text-center text-gray-300">{service.desc}</p>
           </div>
         ))}
       </div>
