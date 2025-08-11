@@ -89,7 +89,7 @@ Join us in creating a space where a candle meets a burning flame — where poten
     const [title, ...rest] = text.split('\n')
     return (
       <div>
-        <h4 className="text-2xl font-bold text-blue-400 mb-3">{title}</h4>
+        <h4 className="text-2xl font-bold text-blue-400 mb-3 uppercase">{title}</h4>
         <p className="text-lg text-gray-300 leading-relaxed whitespace-pre-line">{rest.join('\n')}</p>
       </div>
     )
