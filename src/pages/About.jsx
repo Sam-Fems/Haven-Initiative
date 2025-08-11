@@ -16,7 +16,8 @@ Haven is the match, the place, and the people who bring steady heat: practical t
 Boluwatife — Co-founder and program visionary — started Haven from a place of personal mentorship experience and a conviction that young people deserve intentional, sustained investment.
 Her heart for young people, emphasis on identity and purpose, and skills in program design are the backbone of Haven’s approach.`,
 
-    `Isabella — Co-founder (age 16) — brings youthful insight, peer perspective, and creative energy to the Initiative.
+    `Isabella — Co-founder (age 16) 
+    Brings youthful insight, peer perspective, and creative energy to the Initiative.
 As a young co-founder, Isabella ensures our programs remain relevant, relatable, and responsive to the needs of today’s teens.
 Together, Boluwatife and Isabella lead Haven with a combination of wise strategy and lived peer experience.`,
 
