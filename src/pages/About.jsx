@@ -6,7 +6,7 @@ const About = () => {
       <div className='text-center'>
         <h3 className='text-center text-5xl max-sm:text-3xl text-blue-500 font-bold'>About Us</h3>
         <div className="flex items-center justify-center mt-3 w-64 mx-auto">
-          <div className="h-[2px] bg-blue-800 flex-1 max-w-[80px]"></div>
+          <div className="h-[2px] bg-blue-800 flex-1 max-w-[80px] sm:max-w-[56px]"></div>
           <div className="w-4 h-4 bg-blue-800 rounded-full mx-2"></div>
           <div className="h-[2px] bg-blue-800 flex-1 max-w-[80px]"></div>
         </div>
